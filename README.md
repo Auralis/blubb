@@ -1,2 +1,2 @@
 # blubb
-TADAAAAAAAAA!
+Dies war der Montag.
